@@ -14,7 +14,7 @@ var rates = {
     "CHF": 1.1787
 };
 
-var euros = 100
+var euros = 100;
 
 if (euros == 100) {
     var eurosToAustralian = (rates.AUD) * 100;
