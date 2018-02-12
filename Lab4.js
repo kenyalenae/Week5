@@ -37,7 +37,7 @@ console.log('The currency symbol with the highest exchange rate compared to Euro
 
 // add a new property for Swiss Francs. Symbol is CHF, value is 1.1787.
 // if you had 100 Euros, calculate the equivalent value in Australian Dollars (AUD)
-// TODO write code to identify the currency symbol that has the highest exchange rate compared to Euros.
+// write code to identify the currency symbol that has the highest exchange rate compared to Euros.
 //    In other words, identify the property with the largest value. the answer is BRL (Brazilian Real) at 3.8959 BRL to 1 Euro.
 
 
