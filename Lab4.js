@@ -216,7 +216,7 @@ var nobel_prize_winners_2017 = {
 // print the full name of the Literature Nobel laureate.
 console.log(nobel_prize_winners_2017.prizes[3].laureates[0].firstname + ' ' + nobel_prize_winners_2017.prizes[3].laureates[0].surname);
 
-// TODO print the ids of each of the Physics Nobel laureates. Your code should still work without modification if a laureate was added, or removed.
+// print the ids of each of the Physics Nobel laureates. Your code should still work without modification if a laureate was added, or removed.
 console.log(nobel_prize_winners_2017.prizes[0].laureates[0].id);
 
 // TODO write code to print the names of all of the prize categories (So your output would start physics, chemistry, medicine... ).
